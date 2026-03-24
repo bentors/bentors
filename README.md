@@ -29,12 +29,9 @@ Atualmente, foco na arquitetura de sistemas robustos com **Java** e na extraçã
 
 ---
 
-### 📈 Estatísticas de Contribuição
+### 🐍 Minhas Contribuições
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bentors&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bentors&layout=compact&theme=tokyonight" />
-</p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/SEU_USUARIO/bentors/output/github-contribution-grid-snake.svg)
 
 ---
 
