@@ -31,7 +31,7 @@ Atualmente, foco na arquitetura de sistemas robustos com **Java** e na extraçã
 
 ### 🐍 Minhas Contribuições
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/SEU_USUARIO/bentors/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/bentors/bentors/output/github-contribution-grid-snake.svg)
 
 ---
 
