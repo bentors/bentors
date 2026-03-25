@@ -9,6 +9,19 @@ Atualmente, foco na arquitetura de sistemas robustos com **Java** e na extraçã
 
 ---
 
+<div align="center">
+
+## 🌟 Conheça Meu Portfólio Interativo
+
+<a href="https://portfolio-bentorangel.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_Ver_Portfólio_Completo-A855F7?style=for-the-badge&logoColor=white" />
+</a>
+
+
+</div>
+
+---
+
 ### 🛠️ Minha Stack Tecnológica
 
 | Backend & Data | Frontend & Estilo | Ferramentas |
@@ -33,11 +46,16 @@ Atualmente, foco na arquitetura de sistemas robustos com **Java** e na extraçã
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/bentors/bentors/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bentors&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=9CA3AF" />
+</div>
+
 ---
 
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bento-rangel-1854432a6)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bento.rangel05@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bentorangel.vercel.app/)
 
 </div>
