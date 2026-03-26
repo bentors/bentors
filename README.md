@@ -13,7 +13,7 @@ Atualmente, foco na arquitetura de sistemas robustos com **Java** e na extraçã
 
 ## 🌟 Conheça Meu Portfólio Interativo
 
-<a href="https://portfolio-bentorangel.vercel.app/">
+<a href="https://bentorangel.vercel.app/">
   <img src="https://img.shields.io/badge/🚀_Ver_Portfólio_Completo-A855F7?style=for-the-badge&logoColor=white" />
 </a>
 
@@ -56,6 +56,6 @@ Atualmente, foco na arquitetura de sistemas robustos com **Java** e na extraçã
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bento-rangel-1854432a6)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bento.rangel05@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bentorangel.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://bentorangel.vercel.app/)
 
 </div>
