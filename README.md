@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Bento Rangel! 👋
+# Olá, eu sou o Bento Rangel!
 
 ### ☕ Software engineer | 📊 Data | 🚀 Co-founder @ Street Stars
 
