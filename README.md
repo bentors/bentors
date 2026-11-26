@@ -2,50 +2,58 @@
 
 # Bento Rangel
 
-### Software Engineer | Data & Backend
+### Software Engineer · Backend & Full Stack em cybersecurity
 
-Estudante de Engenharia de Software na FIAP (6º semestre, formatura em dezembro de 2027), atualmente
-na Neotel, onde desenvolvo em Django/Python e TSX sobre PostgreSQL, em ambiente Linux. Co-fundador
-e líder técnico da Street Stars, plataforma de e-commerce de streetwear full-stack. Já atuei também na DHL
-Express, no time de dados, com automação em Python e pipelines SQL/Snowflake.
-
-Trabalho na interseção entre backend robusto e dados aplicados: arquitetura de APIs com Java/Spring Boot e
-Django, automação e análise de dados com Python, e modelos de machine learning para problemas de negócio.
+Dev backend e full stack em produtos de cybersecurity na **Neotel**, com Python/Django e React/TypeScript.
+Nos projetos, também Java/Spring. Antes, 3 anos na **DHL Express**, da operação ao time de dados.
+Cofundador e tech lead da **Street Stars**. Engenharia de Software na **FIAP** (2027), com bolsa integral do ProUni.
 
 [LinkedIn](https://www.linkedin.com/in/bentorangel) · [Portfólio](https://bentorangel.vercel.app/) · [E-mail](mailto:bento.rangel05@gmail.com)
+
+</div>
+
+---
+
+## O que faço hoje
+
+- Na Neotel, mais de 140 PRs integrados em 4 produtos nos primeiros 3 meses, incluindo a refatoração completa do produto principal da empresa.
+- Trilhas de auditoria, IA generativa com AWS Bedrock e geração assíncrona de PDF com Celery, tudo coberto por testes no CI.
+- Segurança desde o primeiro commit: preço validado no servidor, webhook autenticado com HMAC e ação sensível com trilha de auditoria.
 
 ---
 
 ## Stack
 
-| Backend & Dados | Frontend | Ferramentas |
-| :--- | :--- | :--- |
-| Java (Spring Boot) | React | Git / GitHub |
-| Python / Django | TypeScript | Postman |
-| SQL / PostgreSQL | Tailwind CSS | IntelliJ IDEA |
-| MongoDB / Firebase | Framer Motion | Jupyter |
-| | | Linux|
+| Backend | Frontend | Dados & IA | Infra & Ferramentas |
+| :--- | :--- | :--- | :--- |
+| Python / Django | React | SQL / Snowflake | Linux |
+| Java / Spring Boot | TypeScript | Pandas | Docker |
+| PostgreSQL | Next.js | scikit-learn | GitHub Actions |
+| Celery | Tailwind CSS | Power BI | AWS Bedrock |
+| Firebase | | | Git |
 
 ---
 
 ## Projetos em destaque
 
-**Street Stars** — E-commerce de streetwear full-stack. Como líder técnico, conduzi uma auditoria completa
-de segurança (CORS, autenticação HMAC de webhooks, validação de preço server-side, Firebase custom claims,
-uploads assinados via Cloudinary) e uma auditoria de UX/SEO/conversão, endereçando limitações de SEO em SPA
-e fricções no fluxo de checkout.
+**[Street Stars](https://github.com/bentors/site-streetstars)** · E-commerce da marca de streetwear que cofundei, construído do zero.
+Fiz a auditoria de segurança (webhooks autenticados com HMAC, preço validado no servidor, Firebase custom claims,
+uploads assinados via Cloudinary, rate limiting com Upstash) e a de UX/SEO/conversão, atacando os atritos do checkout.
 
-**Aurum Finance** — API REST de finanças pessoais em Java e Spring Boot, com PostgreSQL, autenticação JWT,
-rate limiting, cache com Caffeine, soft delete e optimistic locking; consumida por um frontend próprio em
-React e TypeScript.
+**[Aurum Finance](https://github.com/bentors/aurum-finance-api)** · API REST de finanças pessoais em Java e Spring Boot, com JWT e dados isolados
+por usuário. Rate limiting, cache com Caffeine, soft delete e optimistic locking. Consumida por um
+[frontend próprio](https://github.com/bentors/aurum-finance-frontend) em React e TypeScript.
 
-**REORBITA** — Projeto de previsão de risco de tempestades solares a partir de dados de clima espacial da
-NOAA, desenvolvido para um Global Solution da FIAP. Pipeline com TimeSeriesSplit, SMOTE e Regressão
-Logística com ajuste de threshold, além de uma simulação de gêmeo digital com 50 satélites.
+**[AlertaSP](https://github.com/bentors/alertasp-api-soa)** · Prevenção de enchentes em São Paulo: sensores ESP32, machine learning e relatos de
+cidadãos geram alertas nas rotas de cada usuário. Construí a API em Spring Boot, o modelo de ML e o
+[provisionamento da VM Linux](https://github.com/bentors/alertasp-os) (nginx, firewall, systemd, monitoramento).
 
-**Ford Vision** — Desafio acadêmico em parceria com a Ford Brasil: segmentação de clientes (KMeans) e
-classificação (Random Forest, 83,2% de acurácia) sobre uma base de mais de 600 mil registros de manutenção
-veicular, com tratamento de data leakage.
+**[Ford Vision](https://github.com/bentors/Ford-Vision---IA-ML)** · Desafio da FIAP com a Ford para retenção no pós-venda. Random Forest com 83,2% de
+acurácia sobre 600 mil+ registros de 175 mil veículos, segmentação com K-Means, tratamento de data leakage e
+leads por concessionária servidos em FastAPI.
+
+**[REORBITA](https://github.com/bentors/reorbita-IAeML)** · Previsão de risco de tempestade solar com dados de clima espacial da NOAA. TimeSeriesSplit,
+SMOTE e Regressão Logística com ajuste de threshold, mais um gêmeo digital com 50 satélites. Top 15 entre todas as turmas.
 
 ---
 
