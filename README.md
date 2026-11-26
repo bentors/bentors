@@ -10,22 +10,24 @@ Cofundador e tech lead da **Street Stars**. Engenharia de Software na **FIAP** (
 
 [LinkedIn](https://www.linkedin.com/in/bentorangel) · [Portfólio](https://bentorangel.vercel.app/) · [E-mail](mailto:bento.rangel05@gmail.com)
 
-</div>
 
 ---
 
 ## O que faço hoje
 
-- Na Neotel, mais de 140 PRs integrados em 4 produtos nos primeiros 3 meses, incluindo a refatoração completa do produto principal da empresa.
-- Trilhas de auditoria, IA generativa com AWS Bedrock e geração assíncrona de PDF com Celery, tudo coberto por testes no CI.
-- Segurança desde o primeiro commit: preço validado no servidor, webhook autenticado com HMAC e ação sensível com trilha de auditoria.
+Na Neotel, mais de 140 PRs integrados em 4 produtos nos primeiros 3 meses, incluindo a refatoração completa do produto principal da empresa.
+
+Trilhas de auditoria, IA generativa com AWS Bedrock e geração assíncrona de PDF com Celery, tudo coberto por testes no CI.
+
+Segurança desde o primeiro commit: preço validado no servidor, webhook autenticado com HMAC e ação sensível com trilha de auditoria.
+
 
 ---
 
 ## Stack
 
 | Backend | Frontend | Dados & IA | Infra & Ferramentas |
-| :--- | :--- | :--- | :--- |
+| :---: | :---: | :---: | :---: |
 | Python / Django | React | SQL / Snowflake | Linux |
 | Java / Spring Boot | TypeScript | Pandas | Docker |
 | PostgreSQL | Next.js | scikit-learn | GitHub Actions |
@@ -68,3 +70,5 @@ SMOTE e Regressão Logística com ajuste de threshold, mais um gêmeo digital co
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bentorangel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bento.rangel05@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://bentorangel.vercel.app/)
+
+</div>
