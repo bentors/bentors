@@ -15,11 +15,11 @@ Cofundador e tech lead da **Street Stars**. Engenharia de Software na **FIAP** (
 
 ## O que faço hoje
 
-Na Neotel, mais de 140 PRs integrados em 4 produtos nos primeiros 3 meses, incluindo a refatoração completa do produto principal da empresa.
+Na Neotel, mais de 140 PRs integrados em 4 produtos, em 3 meses, incluindo a refatoração completa do produto principal da empresa.
 
 Trilhas de auditoria, IA generativa com AWS Bedrock e geração assíncrona de PDF com Celery, tudo coberto por testes no CI.
 
-Segurança desde o primeiro commit: preço validado no servidor, webhook autenticado com HMAC e ação sensível com trilha de auditoria.
+Segurança desde o primeiro commit: preço validado no servidor, webhook com HMAC e ação sensível com trilha de auditoria.
 
 
 ---
